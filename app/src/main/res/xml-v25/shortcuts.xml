@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:enabled="true"
+        android:icon="@drawable/ic_call"
+        android:shortcutDisabledMessage="@string/disabled_message"
+        android:shortcutId="static"
+        android:shortcutLongLabel="@string/static_long_label"
+        android:shortcutShortLabel="@string/static_short_label">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetClass="ru.popkov.appshortcut.MainActivity"
+            android:targetPackage="ru.popkov.appshortcut">
+            <extra
+                android:name="shortcut_id"
+                android:value="static" />
+        </intent>
+
+    </shortcut>
+</shortcuts>
