@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">AppShortcut</string>
+
+    <string name="static_short_label">Static chat</string>
+    <string name="dynamic_short_label">Dynamic chat</string>
+    <string name="pinned_short_label">Pinned chat</string>
+    <string name="static_long_label">Static shortcuts for chat</string>
+    <string name="dynamic_long_label">Dynamic shortcuts for chat</string>
+    <string name="pinned_long_label">Pinned shortcuts for chat</string>
+    <string name="disabled_message">This action not available now</string>
+
+    <string name="my_contacts">My contacts</string>
+    <string name="add_dynamic_shortcut">Add dynamic shortcut</string>
+    <string name="add_pinned_shortcut">Add pinned shortcut</string>
+
+    <string name="static_clicked_text">Static shortcut clicked</string>
+    <string name="dynamic_clicked_text">Dynamic shortcut clicked</string>
+    <string name="pinned_clicked_text">Pinned shortcut clicked</string>
+
+    <string name="first_contact_name">Taylor Swift</string>
+    <string name="second_contact_name">Kanye West</string>
 </resources>
