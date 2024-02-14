@@ -15,6 +15,5 @@
                 android:name="shortcut_id"
                 android:value="static" />
         </intent>
-
     </shortcut>
 </shortcuts>
